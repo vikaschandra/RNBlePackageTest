@@ -1,8 +1,7 @@
-
 {
-  "name": "react-native-ble-manager",
+  "name": "react-native-ble-sdk",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Getting started",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +10,16 @@
     "react-native"
   ],
   "author": "",
-  "license": "",
+  "license": "ISC",
   "peerDependencies": {
     "react-native": "^0.41.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikaschandra/RNBlePackageTest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vikaschandra/RNBlePackageTest/issues"
+  },
+  "homepage": "https://github.com/vikaschandra/RNBlePackageTest#readme"
 }
